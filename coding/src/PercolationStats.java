@@ -58,4 +58,7 @@ public class PercolationStats {
     public double confidenceHi() {
         return mean() + confidence();
     }
+    public void test(){
+
+    }
 }
